@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import GifExpertApp from './GifExpertApp';
-
+import './firebase/config';
 import './index.css';
 
 
